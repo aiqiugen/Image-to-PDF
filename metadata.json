@@ -1,0 +1,5 @@
+{
+  "name": "Smart Image to PDF",
+  "description": "A professional tool to convert images to PDF with lossless quality. Features AI-powered content analysis for smart naming and automatic page sizing.",
+  "requestFramePermissions": []
+}
